@@ -16,8 +16,10 @@ const Footer = () => {
 
   
   const menu_footer_mobile = [...menu_footer]
-  const last_item = menu_footer_mobile.pop()
-  menu_footer_mobile.unshift(last_item)
+  // const last_item = menu_footer_mobile.pop()
+  // menu_footer_mobile.unshift(last_item)
+
+  
 
 
   useEffect(() => {

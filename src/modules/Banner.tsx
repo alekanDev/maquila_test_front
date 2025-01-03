@@ -1,5 +1,5 @@
 'use client'
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Image from "next/image";
 import { useContextMobile } from '@/hooks/contextMobile';
 import { categories } from "@/data/categories";
@@ -17,7 +17,7 @@ import bin from '@/assets/nav/bin.svg'
 import { IoClose } from "react-icons/io5";
 import { FaChevronRight } from "react-icons/fa";
 import { BannerProps } from '@/interfaces/Banner';
-import { formatDiner } from '@/app/page';
+import { formatDiner } from '@/utils/FormatDiner';
 import ProgressBar from '@ramonak/react-progress-bar';
 import { Order } from '@/interfaces/Order';
 
@@ -31,11 +31,12 @@ const Banner: React.FC<BannerProps> = ({ myBag, setMyBag, subTotalPrice, setSubT
   const [menuItemHover, setMenuItemHover] = useState<string | null>(null)
   const [menuMobile, setMenuMobile] = useState<boolean>(false)
   const [subMenuActive, setSubMenuActive] = useState<boolean>(true)
-  const [subMenuView, setSubMenuView] = useState<string | null>(null)
+  // const [subMenuView, setSubMenuView] = useState<string | null>(null)
   const [viewBag, setViewBag] = useState<boolean>(false)
   const [viewFinisPay, setViewFinisPay] = useState<boolean>(false)
   const [paySubtotal, setPaySubtotal] = useState(0)
   const [documentValue, setDocumentValue] = useState<string>('')
+
 
   const MenuCategories = () => (
     <div className={isMobile && menuMobile ? styles.menu_mobile_categories : styles.menu_container}>
@@ -68,7 +69,8 @@ const Banner: React.FC<BannerProps> = ({ myBag, setMyBag, subTotalPrice, setSubT
     setDocumentValue(e.target.value)
   }
 
-  
+  console.log(paySubtotal, setSubMenuActive)
+
 
   const handleNewOrder = async () => {
 
@@ -132,7 +134,9 @@ const Banner: React.FC<BannerProps> = ({ myBag, setMyBag, subTotalPrice, setSubT
                     key={index}
                     className={isMobile && el.hidden_mobile ? styles.none : styles.menu_item}
                     onClick={() => {
-                      el.name === 'market' && myBag.length > 0 ? setViewBag(true) : styles.hidden
+                      if (el.name === 'market' && myBag.length > 0) {
+                        setViewBag(true);
+                      }
                     }}
                     src={el.icon}
                     alt={el.name}

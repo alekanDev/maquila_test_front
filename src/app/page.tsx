@@ -14,16 +14,8 @@ import wishlist from '@/assets/product/wishlist.svg'
 import arrow_left from '@/assets/nav/arrow-left.svg'
 import arrow_right from '@/assets/nav/arrow-right.svg'
 import search_ico from '@/assets/nav/search.svg'
-import { MyBag, BannerProps } from '@/interfaces/Banner'
-
-
-export const formatDiner = (price: number) => {
-  return new Intl.NumberFormat('es-CO', {
-    style: 'currency',
-    currency: 'COP',
-    maximumFractionDigits: 0
-  }).format(price)
-}
+import { MyBag } from '@/interfaces/Banner'
+import { formatDiner } from '@/utils/FormatDiner'
 
 
 export default function Home() {
@@ -75,7 +67,19 @@ export default function Home() {
     }
   }
 
-  const addMyBag = (product_item) => {
+  interface ProductItem {
+    productId: string;
+    items: {
+      images: {
+        imageUrl: string;
+      }[];
+    }[];
+    brand: string;
+    productName: string;
+    price: number;
+  }
+
+  const addMyBag = (product_item: ProductItem) => {
 
     const new_item: MyBag = {
       productId: product_item.productId,
@@ -224,9 +228,12 @@ export default function Home() {
                   </div>
                   <button
                     className={isHoverProductID === product_item.productId || isMobile ? styles.description_btn_add : styles.hidden_btn_add}
-                    onClick={() =>{
-                      addMyBag(product_item)
-                      setSubTotalPrice(prevSubTotal => prevSubTotal + product_item.price)
+                    onClick={() => {
+                      addMyBag({
+                        ...product_item,
+                        productId: product_item.productId.toString(),
+                      });
+                      setSubTotalPrice(prevSubTotal => prevSubTotal + product_item.price);
                     }}
                   >
                     Agregar a mi bolsa

@@ -2,7 +2,7 @@ export interface Order{
   orderId: string,
   dateBuy: Date,
   document: string,
-  productsID: Date[],
+  productsID: string[],
   countProducts: number,
   totalPrice: number
 }

@@ -1,6 +1,6 @@
+import { Order } from '@/interfaces/Order'
 import axios from 'axios'
 const url_API_localhost = 'http://localhost:3001'
-const url_API_local_network = 'http://10.10.0.150:3001/'
 
 export const getAll = async () => {
   return await axios({
@@ -15,7 +15,7 @@ export const getAll = async () => {
   })
 }
 
-export const pushBuy = async (data:[]) => {
+export const pushBuy = async (data:Order) => {
   return await axios({
     method: 'post',
     url:`${url_API_localhost}/buys/newbuy`,

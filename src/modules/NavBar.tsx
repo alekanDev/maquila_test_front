@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import styles from './navBar.module.css'
 import { menus_navbar } from '@/data/menu_navbar'
 import { NavbarProps } from '@/interfaces/Navbar'

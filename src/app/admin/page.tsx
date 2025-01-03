@@ -3,8 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { getBuys } from '@/api/get_items'
 import styles from './page.module.css'
 import { Order } from '@/interfaces/Order'
-import { formatDiner } from '../page'
-import { AiFillBulb } from 'react-icons/ai'
+import { formatDiner } from '@/utils/FormatDiner'
 
 const AdminPage = () => {
   const [allBuys, setAllBuys] = useState<Order[]>([])
