@@ -1,0 +1,978 @@
+[
+   {
+      "productId": "3150",
+      "productName": "Camiseta de One Piece manga corta marfil para hombre",
+      "price": 84900,
+      "brand": "ONE PIECE",
+      "linkText": "camiseta-hombre-exterior-one-piece-238249",
+      "releaseDate": "2024-11-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-one-piece-238249/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": [
+         "Componente: Camiseta , Composición: 99% Algodón, 1% Elastano"
+      ],
+      "Especificaciones": [
+         "- Camiseta cuello redondo, manga corta\r\n -tela algodón para mayor frescura y suavidad, cuello en rib para mayor comodidad -cuello con elongación para facilitar el paso de la cabeza\r\n- Regular fit\r\n- Estampado en relieve"
+      ],
+      "Color": ["Marfil"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra\r\n- No retorcer"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177739",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177739-#width#-#height#/238249-camiseta-hombre-one-piece-camiseta-iconica-1.jpg?v=638664382146500000\" width=\"#width#\" height=\"#height#\" alt=\"238249-camiseta-hombre-one-piece-camiseta-iconica-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177739/238249-camiseta-hombre-one-piece-camiseta-iconica-1.jpg?v=638664382146500000",
+                  "imageText": "238249-camiseta-hombre-one-piece-camiseta-iconica-1",
+                  "imageLastModified": "2024-11-05T21:16:54.6500000Z"
+               },
+               {
+                  "imageId": "177740",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177740-#width#-#height#/238249-camiseta-hombre-one-piece-camiseta-iconica-2.jpg?v=638664382275230000\" width=\"#width#\" height=\"#height#\" alt=\"238249-camiseta-hombre-one-piece-camiseta-iconica-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177740/238249-camiseta-hombre-one-piece-camiseta-iconica-2.jpg?v=638664382275230000",
+                  "imageText": "238249-camiseta-hombre-one-piece-camiseta-iconica-2",
+                  "imageLastModified": "2024-11-05T21:17:07.5230000Z"
+               },
+               {
+                  "imageId": "177741",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177741-#width#-#height#/238249-camiseta-hombre-one-piece-camiseta-iconica-3.jpg?v=638664382390130000\" width=\"#width#\" height=\"#height#\" alt=\"238249-camiseta-hombre-one-piece-camiseta-iconica-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177741/238249-camiseta-hombre-one-piece-camiseta-iconica-3.jpg?v=638664382390130000",
+                  "imageText": "238249-camiseta-hombre-one-piece-camiseta-iconica-3",
+                  "imageLastModified": "2024-11-05T21:17:19.0130000Z"
+               },
+               {
+                  "imageId": "177742",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177742-#width#-#height#/238249-camiseta-hombre-one-piece-camiseta-iconica-4.jpg?v=638664382613130000\" width=\"#width#\" height=\"#height#\" alt=\"238249-camiseta-hombre-one-piece-camiseta-iconica-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177742/238249-camiseta-hombre-one-piece-camiseta-iconica-4.jpg?v=638664382613130000",
+                  "imageText": "238249-camiseta-hombre-one-piece-camiseta-iconica-4",
+                  "imageLastModified": "2024-11-05T21:17:41.3130000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 1
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 3
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 0
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 5
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 3
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3140",
+      "productName": "Camiseta de Hello Kitty rosada manga corta para mujer",
+      "price": 79900,
+      "brand": "HELLO KITTY",
+      "linkText": "camiseta-mujer-exterior-hello-kitty-238212",
+      "releaseDate": "2024-10-30T00:00:00Z",
+      "categories": ["/Mujer/Camisetas/", "/Mujer/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-mujer-exterior-hello-kitty-238212/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": [
+         "Componente: Camiseta , Composición: 99% Algodón, 1% ELlastano"
+      ],
+      "Especificaciones": [
+         "-camiseta cuello redondo, manga siza \r\n- tela algodón para mayor frescura y suavidad \r\n-cuello en rib para mayor comodidad - cuello con elongación para facilitar el paso de la cabeza"
+      ],
+      "Color": ["Rosa pastel"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra\r\n- No retorcer"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Mujer"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177635",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177635-#width#-#height#/238212-camiseta-mujer-hello-kitty-camiseta-iconica-1.jpg?v=638652281577030000\" width=\"#width#\" height=\"#height#\" alt=\"238212-camiseta-mujer-hello-kitty-camiseta-iconica-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177635/238212-camiseta-mujer-hello-kitty-camiseta-iconica-1.jpg?v=638652281577030000",
+                  "imageText": "238212-camiseta-mujer-hello-kitty-camiseta-iconica-1",
+                  "imageLastModified": "2024-10-22T21:09:17.7030000Z"
+               },
+               {
+                  "imageId": "177636",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177636-#width#-#height#/238212-camiseta-mujer-hello-kitty-camiseta-iconica-2.jpg?v=638652281728800000\" width=\"#width#\" height=\"#height#\" alt=\"238212-camiseta-mujer-hello-kitty-camiseta-iconica-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177636/238212-camiseta-mujer-hello-kitty-camiseta-iconica-2.jpg?v=638652281728800000",
+                  "imageText": "238212-camiseta-mujer-hello-kitty-camiseta-iconica-2",
+                  "imageLastModified": "2024-10-22T21:09:32.8800000Z"
+               },
+               {
+                  "imageId": "177637",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177637-#width#-#height#/238212-camiseta-mujer-hello-kitty-camiseta-iconica-3.jpg?v=638652281835230000\" width=\"#width#\" height=\"#height#\" alt=\"238212-camiseta-mujer-hello-kitty-camiseta-iconica-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177637/238212-camiseta-mujer-hello-kitty-camiseta-iconica-3.jpg?v=638652281835230000",
+                  "imageText": "238212-camiseta-mujer-hello-kitty-camiseta-iconica-3",
+                  "imageLastModified": "2024-10-22T21:09:43.5230000Z"
+               },
+               {
+                  "imageId": "177638",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177638-#width#-#height#/238212-camiseta-mujer-hello-kitty-camiseta-iconica-4.jpg?v=638652281934230000\" width=\"#width#\" height=\"#height#\" alt=\"238212-camiseta-mujer-hello-kitty-camiseta-iconica-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177638/238212-camiseta-mujer-hello-kitty-camiseta-iconica-4.jpg?v=638652281934230000",
+                  "imageText": "238212-camiseta-mujer-hello-kitty-camiseta-iconica-4",
+                  "imageLastModified": "2024-10-22T21:09:53.4230000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 4
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 1
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 2
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 0
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3123",
+      "productName": "Camiseta de Bart manga corta negra para hombre",
+      "price": 94900,
+      "brand": "DISNEY",
+      "linkText": "camiseta-hombre-exterior-simpsons-238149",
+      "releaseDate": "2024-10-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-simpsons-238149/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón, 1% Elastano"],
+      "Especificaciones": [
+         "-Camiseta cuello redondo, manga corta\r\n -tela algodón para mayor frescura y suavidad, cuello en rib para mayor comodidad -cuello con elongación para facilitar el paso de la cabeza\r\n- Regular Fit"
+      ],
+      "Color": ["Negro"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra\r\n- No retorcer"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177536",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177536-#width#-#height#/238149-camiseta-hombre-simpsons-manga-corta-1.jpg?v=638635014743570000\" width=\"#width#\" height=\"#height#\" alt=\"238149-camiseta-hombre-simpsons-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177536/238149-camiseta-hombre-simpsons-manga-corta-1.jpg?v=638635014743570000",
+                  "imageText": "238149-camiseta-hombre-simpsons-manga-corta-1",
+                  "imageLastModified": "2024-10-02T21:31:14.3570000Z"
+               },
+               {
+                  "imageId": "177537",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177537-#width#-#height#/238149-camiseta-hombre-simpsons-manga-corta-2.jpg?v=638635014835800000\" width=\"#width#\" height=\"#height#\" alt=\"238149-camiseta-hombre-simpsons-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177537/238149-camiseta-hombre-simpsons-manga-corta-2.jpg?v=638635014835800000",
+                  "imageText": "238149-camiseta-hombre-simpsons-manga-corta-2",
+                  "imageLastModified": "2024-10-02T21:31:23.5800000Z"
+               },
+               {
+                  "imageId": "177538",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177538-#width#-#height#/238149-camiseta-hombre-simpsons-manga-corta-3.jpg?v=638635014972970000\" width=\"#width#\" height=\"#height#\" alt=\"238149-camiseta-hombre-simpsons-manga-corta-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177538/238149-camiseta-hombre-simpsons-manga-corta-3.jpg?v=638635014972970000",
+                  "imageText": "238149-camiseta-hombre-simpsons-manga-corta-3",
+                  "imageLastModified": "2024-10-02T21:31:37.2970000Z"
+               },
+               {
+                  "imageId": "177539",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177539-#width#-#height#/238149-camiseta-hombre-simpsons-manga-corta-4.jpg?v=638635015083300000\" width=\"#width#\" height=\"#height#\" alt=\"238149-camiseta-hombre-simpsons-manga-corta-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177539/238149-camiseta-hombre-simpsons-manga-corta-4.jpg?v=638635015083300000",
+                  "imageText": "238149-camiseta-hombre-simpsons-manga-corta-4",
+                  "imageLastModified": "2024-10-02T21:31:48.3300000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 3
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 2
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 2
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 5
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 0
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3115",
+      "productName": "Camiseta de Coraje El Perro Cobarde gris manga corta para hombre",
+      "price": 89900,
+      "brand": "CARTOON NETWORK",
+      "linkText": "camiseta-hombre-exterior-courage-the-cow-238162",
+      "releaseDate": "2024-10-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-courage-the-cow-238162/p",
+      "País de fabricación": [
+         "Colombia - FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón 1% Elastano"],
+      "Descubre más": [
+         "¡La nostalgia está en los detalles! Esta prenda con un toque de misterio (lo indicó Coraje, el Perro Cobarde) invita a explorar diseños igual de icónicos, prendas cómodas que solo se encuentran en Movies."
+      ],
+      "Especificaciones": [
+         "Diseño: Camiseta cuello redondo con elongación para facilitar el paso de la cabeza y manga corta. Diseñada en algodón para mayor frescura y suavidad; cuello en rib para mayor comodidad. Estampado en frente"
+      ],
+      "Color": ["Gris"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177442",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177442-#width#-#height#/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-1.jpg?v=638633038829000000\" width=\"#width#\" height=\"#height#\" alt=\"238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177442/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-1.jpg?v=638633038829000000",
+                  "imageText": "238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-1",
+                  "imageLastModified": "2024-09-30T14:38:02.9000000Z"
+               },
+               {
+                  "imageId": "177443",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177443-#width#-#height#/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-2.jpg?v=638633038925370000\" width=\"#width#\" height=\"#height#\" alt=\"238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177443/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-2.jpg?v=638633038925370000",
+                  "imageText": "238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-2",
+                  "imageLastModified": "2024-09-30T14:38:12.5370000Z"
+               },
+               {
+                  "imageId": "177444",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177444-#width#-#height#/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-3.jpg?v=638633039029600000\" width=\"#width#\" height=\"#height#\" alt=\"238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177444/238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-3.jpg?v=638633039029600000",
+                  "imageText": "238162-camiseta-hombre-courage-the-cowardly-dog-manga-corta-3",
+                  "imageLastModified": "2024-09-30T14:38:22.9600000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 0
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 0
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 2
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 1
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 3
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3114",
+      "productName": "Camiseta de Dexter’s azul manga corta para hombre",
+      "price": 89900,
+      "brand": "CARTOON NETWORK",
+      "linkText": "camiseta-hombre-exterior-dexter-s-labora-238160",
+      "releaseDate": "2024-10-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-dexter-s-labora-238160/p",
+      "País de fabricación": [
+         "Colombia - FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón 1% Elastano"],
+      "Descubre más": [
+         "¡Volver al pasado si siente cool! Estas prendas tienen la respuesta a los mejores momentos de la niñez, donde cobran vida nuestros personajes favoritos. Sigue explorando y descubre más prendas icónicas en Movies."
+      ],
+      "Especificaciones": [
+         "Diseño: Camiseta cuello redondo con elongación para facilitar el paso de la cabeza y manga corta. Diseñada en algodón para mayor frescura y suavidad; cuello en rib para mayor comodidad. Estampado en frente"
+      ],
+      "Color": ["Azul"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177438",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177438-#width#-#height#/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-1.jpg?v=638633033056870000\" width=\"#width#\" height=\"#height#\" alt=\"238160-camiseta-hombre-dexter-s-laboratory-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177438/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-1.jpg?v=638633033056870000",
+                  "imageText": "238160-camiseta-hombre-dexter-s-laboratory-manga-corta-1",
+                  "imageLastModified": "2024-09-30T14:28:25.6870000Z"
+               },
+               {
+                  "imageId": "177439",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177439-#width#-#height#/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-2.jpg?v=638633033536330000\" width=\"#width#\" height=\"#height#\" alt=\"238160-camiseta-hombre-dexter-s-laboratory-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177439/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-2.jpg?v=638633033536330000",
+                  "imageText": "238160-camiseta-hombre-dexter-s-laboratory-manga-corta-2",
+                  "imageLastModified": "2024-09-30T14:29:13.6330000Z"
+               },
+               {
+                  "imageId": "177440",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177440-#width#-#height#/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-3.jpg?v=638633033645300000\" width=\"#width#\" height=\"#height#\" alt=\"238160-camiseta-hombre-dexter-s-laboratory-manga-corta-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177440/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-3.jpg?v=638633033645300000",
+                  "imageText": "238160-camiseta-hombre-dexter-s-laboratory-manga-corta-3",
+                  "imageLastModified": "2024-09-30T14:29:24.5300000Z"
+               },
+               {
+                  "imageId": "177441",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177441-#width#-#height#/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-4.jpg?v=638633033779800000\" width=\"#width#\" height=\"#height#\" alt=\"238160-camiseta-hombre-dexter-s-laboratory-manga-corta-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177441/238160-camiseta-hombre-dexter-s-laboratory-manga-corta-4.jpg?v=638633033779800000",
+                  "imageText": "238160-camiseta-hombre-dexter-s-laboratory-manga-corta-4",
+                  "imageLastModified": "2024-09-30T14:29:37.9800000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 0
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 3
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 3
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 1
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 2
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3113",
+      "productName": "Camiseta de Cartoon Network blanca manga corta para hombre",
+      "price": 89900,
+      "brand": "CARTOON NETWORK",
+      "linkText": "camiseta-hombre-exterior-cartoon-network-238151",
+      "releaseDate": "2024-10-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-cartoon-network-238151/p",
+      "País de fabricación": [
+         "Colombia - FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón 1% Elastano"],
+      "Descubre más": [
+         "Es tiempo de revivir la niñez más especial. Lleva la magia de Cartoon Network a tu clóset con una colección de Movies llena de nostalgia."
+      ],
+      "Especificaciones": [
+         "Diseño: Camiseta cuello redondo con elongación para facilitar el paso de la cabeza y manga corta. Diseñada en algodón para mayor frescura y suavidad. Cuello en rib para mayor comodidad y estampado en frente y espalda."
+      ],
+      "Color": ["Blanco"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Camisetas y Tops"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177428",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177428-#width#-#height#/238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-1.jpg?v=638630607975100000\" width=\"#width#\" height=\"#height#\" alt=\"238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177428/238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-1.jpg?v=638630607975100000",
+                  "imageText": "238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-1",
+                  "imageLastModified": "2024-09-27T19:06:37.5100000Z"
+               },
+               {
+                  "imageId": "177429",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177429-#width#-#height#/238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-2.jpg?v=638630608184400000\" width=\"#width#\" height=\"#height#\" alt=\"238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177429/238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-2.jpg?v=638630608184400000",
+                  "imageText": "238151-camiseta-hombre-cartoon-network-logo-name-manga-corta-2",
+                  "imageLastModified": "2024-09-27T19:06:58.4400000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 2
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 0
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 4
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 3
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 1
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3108",
+      "productName": "Camiseta de Dragon Ball Z marfil estampada para hombre",
+      "price": 74900,
+      "brand": "DRAGON BALL",
+      "linkText": "camiseta-hombre-exterior-dragon-ball-z-238060",
+      "releaseDate": "2024-10-15T00:00:00Z",
+      "categories": ["/Hombre/Camisetas/", "/Hombre/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-hombre-exterior-dragon-ball-z-238060/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón   1% Elastano"],
+      "Descubre más": [
+         "Cuando se trata de salvar el mundo, ni siquiera Gokú solo podría lograrlo, por eso estamos en búsqueda de su compañero ideal y, ¡te encontramos a ti! Atrévete a conocer otras colección llenas de estilo y comodidad como esta explorando en nuestra web."
+      ],
+      "Especificaciones": [
+         "Diseño: Camiseta Regular Fit básica de manga corta y cuello redondo con estampado en espalda y punto corazón. \r\nDiseñada en algodón para mayor suavidad al moverse"
+      ],
+      "Color": ["Marfil"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra\r\n- No retorcer"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Hombre"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177460",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177460-#width#-#height#/238060-camiseta-hombre-dragon-ball-z-manga-corta-1.jpg?v=638633070749630000\" width=\"#width#\" height=\"#height#\" alt=\"238060-camiseta-hombre-dragon-ball-z-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177460/238060-camiseta-hombre-dragon-ball-z-manga-corta-1.jpg?v=638633070749630000",
+                  "imageText": "238060-camiseta-hombre-dragon-ball-z-manga-corta-1",
+                  "imageLastModified": "2024-09-30T15:31:14.9630000Z"
+               },
+               {
+                  "imageId": "177462",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177462-#width#-#height#/238060-camiseta-hombre-dragon-ball-z-manga-corta-3.jpg?v=638633071256400000\" width=\"#width#\" height=\"#height#\" alt=\"238060-camiseta-hombre-dragon-ball-z-manga-corta-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177462/238060-camiseta-hombre-dragon-ball-z-manga-corta-3.jpg?v=638633071256400000",
+                  "imageText": "238060-camiseta-hombre-dragon-ball-z-manga-corta-3",
+                  "imageLastModified": "2024-09-30T15:32:05.6400000Z"
+               },
+               {
+                  "imageId": "177463",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177463-#width#-#height#/238060-camiseta-hombre-dragon-ball-z-manga-corta-4.jpg?v=638633071587230000\" width=\"#width#\" height=\"#height#\" alt=\"238060-camiseta-hombre-dragon-ball-z-manga-corta-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177463/238060-camiseta-hombre-dragon-ball-z-manga-corta-4.jpg?v=638633071587230000",
+                  "imageText": "238060-camiseta-hombre-dragon-ball-z-manga-corta-4",
+                  "imageLastModified": "2024-09-30T15:32:38.7230000Z"
+               },
+               {
+                  "imageId": "177464",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177464-#width#-#height#/238060-camiseta-hombre-dragon-ball-z-manga-corta-2.jpg?v=638633073542000000\" width=\"#width#\" height=\"#height#\" alt=\"238060-camiseta-hombre-dragon-ball-z-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177464/238060-camiseta-hombre-dragon-ball-z-manga-corta-2.jpg?v=638633073542000000",
+                  "imageText": "238060-camiseta-hombre-dragon-ball-z-manga-corta-2",
+                  "imageLastModified": "2024-09-30T15:35:54.2000000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 1
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 0
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 0
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 2
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 3
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3097",
+      "productName": "Pijama de Snoopy de pantalón corto multicolor para mujer",
+      "price": 119900,
+      "brand": "SNOOPY",
+      "linkText": "pijama-mujer-interior-snoopy-238098",
+      "releaseDate": "2024-08-15T00:00:00Z",
+      "categories": ["/Mujer/Pijamas/", "/Mujer/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/pijama-mujer-interior-snoopy-238098/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón   1% Elastano"],
+      "Especificaciones": [
+         "- Regular Fit\r\n- Pijama cuello redondo, manga corta, short con cintura elástica -tela algodón para mayor frescura y suavidad -cintura elástica, cuello con elongación para facilitar el paso de la cabeza"
+      ],
+      "Color": ["Multicolor"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Pijamas y Ropa Interior"],
+      "Género": ["Mujer"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177328",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177328-#width#-#height#/238098-pijama-mujer-snoopy-corto-corto-1.jpg?v=638585570530770000\" width=\"#width#\" height=\"#height#\" alt=\"238098-pijama-mujer-snoopy-corto-corto-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177328/238098-pijama-mujer-snoopy-corto-corto-1.jpg?v=638585570530770000",
+                  "imageText": "238098-pijama-mujer-snoopy-corto-corto-1",
+                  "imageLastModified": "2024-08-06T16:04:13.0770000Z"
+               },
+               {
+                  "imageId": "177329",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177329-#width#-#height#/238098-pijama-mujer-snoopy-corto-corto-2.jpg?v=638585570831130000\" width=\"#width#\" height=\"#height#\" alt=\"238098-pijama-mujer-snoopy-corto-corto-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177329/238098-pijama-mujer-snoopy-corto-corto-2.jpg?v=638585570831130000",
+                  "imageText": "238098-pijama-mujer-snoopy-corto-corto-2",
+                  "imageLastModified": "2024-08-06T16:04:43.1130000Z"
+               },
+               {
+                  "imageId": "177330",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177330-#width#-#height#/238098-pijama-mujer-snoopy-corto-corto-3.jpg?v=638585570942770000\" width=\"#width#\" height=\"#height#\" alt=\"238098-pijama-mujer-snoopy-corto-corto-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177330/238098-pijama-mujer-snoopy-corto-corto-3.jpg?v=638585570942770000",
+                  "imageText": "238098-pijama-mujer-snoopy-corto-corto-3",
+                  "imageLastModified": "2024-08-06T16:04:54.2770000Z"
+               },
+               {
+                  "imageId": "177331",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177331-#width#-#height#/238098-pijama-mujer-snoopy-corto-corto-4.jpg?v=638585571064570000\" width=\"#width#\" height=\"#height#\" alt=\"238098-pijama-mujer-snoopy-corto-corto-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177331/238098-pijama-mujer-snoopy-corto-corto-4.jpg?v=638585571064570000",
+                  "imageText": "238098-pijama-mujer-snoopy-corto-corto-4",
+                  "imageLastModified": "2024-08-06T16:05:06.4570000Z"
+               },
+               {
+                  "imageId": "177332",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177332-#width#-#height#/238098-pijama-mujer-snoopy-corto-corto-5.jpg?v=638585571195570000\" width=\"#width#\" height=\"#height#\" alt=\"238098-pijama-mujer-snoopy-corto-corto-5\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177332/238098-pijama-mujer-snoopy-corto-corto-5.jpg?v=638585571195570000",
+                  "imageText": "238098-pijama-mujer-snoopy-corto-corto-5",
+                  "imageLastModified": "2024-08-06T16:05:19.5570000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 1
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 3
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 1
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 0
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 0
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3094",
+      "productName": "Pijama de Minnie Mouse tipo batola manga corta rosada para mujer",
+      "price": 71900,
+      "brand": "DISNEY",
+      "linkText": "pijama--mujer-interior-minnie-238093",
+      "releaseDate": "2024-08-15T00:00:00Z",
+      "categories": ["/Mujer/Pijamas/", "/Mujer/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/pijama--mujer-interior-minnie-238093/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón   1% Elastano"],
+      "Especificaciones": [
+         "- Relax fit\r\n-Pijama tipo batola, cuello redondo, manga corta\r\n -tela algodón para mayor frescura y suavidad, cuello en rib para mayor comodidad -cuello con elongación para facilitar el paso de la cabeza"
+      ],
+      "Color": ["Rosado"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Pijamas y Ropa Interior"],
+      "Género": ["Mujer"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177314",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177314-#width#-#height#/238093-pijama-mujer-minnie-batola-1.jpg?v=638585550938170000\" width=\"#width#\" height=\"#height#\" alt=\"238093-pijama-mujer-minnie-batola-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177314/238093-pijama-mujer-minnie-batola-1.jpg?v=638585550938170000",
+                  "imageText": "238093-pijama-mujer-minnie-batola-1",
+                  "imageLastModified": "2024-08-06T15:31:33.8170000Z"
+               },
+               {
+                  "imageId": "177315",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177315-#width#-#height#/238093-pijama-mujer-minnie-batola-2.jpg?v=638585552767370000\" width=\"#width#\" height=\"#height#\" alt=\"238093-pijama-mujer-minnie-batola-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177315/238093-pijama-mujer-minnie-batola-2.jpg?v=638585552767370000",
+                  "imageText": "238093-pijama-mujer-minnie-batola-2",
+                  "imageLastModified": "2024-08-06T15:34:36.7370000Z"
+               },
+               {
+                  "imageId": "177316",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177316-#width#-#height#/238093-pijama-mujer-minnie-batola-3.jpg?v=638585552877030000\" width=\"#width#\" height=\"#height#\" alt=\"238093-pijama-mujer-minnie-batola-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177316/238093-pijama-mujer-minnie-batola-3.jpg?v=638585552877030000",
+                  "imageText": "238093-pijama-mujer-minnie-batola-3",
+                  "imageLastModified": "2024-08-06T15:34:47.7030000Z"
+               },
+               {
+                  "imageId": "177317",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177317-#width#-#height#/238093-pijama-mujer-minnie-batola-4.jpg?v=638585552984470000\" width=\"#width#\" height=\"#height#\" alt=\"238093-pijama-mujer-minnie-batola-4\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177317/238093-pijama-mujer-minnie-batola-4.jpg?v=638585552984470000",
+                  "imageText": "238093-pijama-mujer-minnie-batola-4",
+                  "imageLastModified": "2024-08-06T15:34:58.4470000Z"
+               },
+               {
+                  "imageId": "177318",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177318-#width#-#height#/238093-pijama-mujer-minnie-batola-5.jpg?v=638585553194630000\" width=\"#width#\" height=\"#height#\" alt=\"238093-pijama-mujer-minnie-batola-5\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177318/238093-pijama-mujer-minnie-batola-5.jpg?v=638585553194630000",
+                  "imageText": "238093-pijama-mujer-minnie-batola-5",
+                  "imageLastModified": "2024-08-06T15:35:19.4630000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 2
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 2
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 1
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 0
+               },
+               {
+                  "id": "60",
+                  "name": "XL",
+                  "position": 5,
+                  "quantity": 5
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "productId": "3089",
+      "productName": "Camiseta de Snoopy manga corta azul para mujer",
+      "price": 84900,
+      "brand": "SNOOPY",
+      "linkText": "camiseta-mujer-exterior-snoopy-238095",
+      "releaseDate": "2024-08-15T00:00:00Z",
+      "categories": ["/Mujer/Camisetas/", "/Mujer/"],
+      "link": "https://moviesshopco.vtexcommercestable.com.br/camiseta-mujer-exterior-snoopy-238095/p",
+      "País de fabricación": [
+         "Colombia \r\n- FABRICANTE/IMPORTADOR: Maquila Internacional de confección"
+      ],
+      "Registro Sic": ["811007991-8"],
+      "Composición": ["99% Algodón   1% Elastano"],
+      "Especificaciones": [
+         "- Regular fit \r\n- Camiseta cuello redondo, manga corta\r\n -tela algodón para mayor frescura y suavidad -cuello con elongación para facilitar el paso de la cabeza"
+      ],
+      "Color": ["Azul"],
+      "Cuidado": [
+         "- Lavar a mano o en máquina \r\n- No lavar en seco \r\n- No dejar en remojo \r\n- No retorcer ni exprimir \r\n- Usar agua fría \r\n- Usar jabón suave \r\n- No usar blanqueador \r\n- No blanquear \r\n- No usar secadora \r\n- No planchar \r\n- Secado en tendedero a la sombra"
+      ],
+      "Categoría": ["Camisetas"],
+      "Género": ["Mujer"],
+      "items": [
+         {
+            "images": [
+               {
+                  "imageId": "177319",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177319-#width#-#height#/238095-camiseta-mujer-snoopy-manga-corta-1.jpg?v=638585563734470000\" width=\"#width#\" height=\"#height#\" alt=\"238095-camiseta-mujer-snoopy-manga-corta-1\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177319/238095-camiseta-mujer-snoopy-manga-corta-1.jpg?v=638585563734470000",
+                  "imageText": "238095-camiseta-mujer-snoopy-manga-corta-1",
+                  "imageLastModified": "2024-08-06T15:52:53.4470000Z"
+               },
+               {
+                  "imageId": "177320",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177320-#width#-#height#/238095-camiseta-mujer-snoopy-manga-corta-2.jpg?v=638585563844130000\" width=\"#width#\" height=\"#height#\" alt=\"238095-camiseta-mujer-snoopy-manga-corta-2\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177320/238095-camiseta-mujer-snoopy-manga-corta-2.jpg?v=638585563844130000",
+                  "imageText": "238095-camiseta-mujer-snoopy-manga-corta-2",
+                  "imageLastModified": "2024-08-06T15:53:04.4130000Z"
+               },
+               {
+                  "imageId": "177321",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177321-#width#-#height#/238095-camiseta-mujer-snoopy-manga-corta-3.jpg?v=638585563931870000\" width=\"#width#\" height=\"#height#\" alt=\"238095-camiseta-mujer-snoopy-manga-corta-3\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177321/238095-camiseta-mujer-snoopy-manga-corta-3.jpg?v=638585563931870000",
+                  "imageText": "238095-camiseta-mujer-snoopy-manga-corta-3",
+                  "imageLastModified": "2024-08-06T15:53:13.1870000Z"
+               },
+               {
+                  "imageId": "177322",
+                  "imageLabel": "",
+                  "imageTag": "<img src=\"~/arquivos/ids/177322-#width#-#height#/238095-camiseta-mujer-snoopy-manga-corta-.jpg?v=638585564025570000\" width=\"#width#\" height=\"#height#\" alt=\"238095-camiseta-mujer-snoopy-manga-corta-\" id=\"\" />",
+                  "imageUrl": "https://moviesshopco.vteximg.com.br/arquivos/ids/177322/238095-camiseta-mujer-snoopy-manga-corta-.jpg?v=638585564025570000",
+                  "imageText": "238095-camiseta-mujer-snoopy-manga-corta-",
+                  "imageLastModified": "2024-08-06T15:53:22.5570000Z"
+               }
+            ]
+         }
+      ],
+      "skuSpecifications": [
+         {
+            "values": [
+               {
+                  "id": "56",
+                  "name": "XS",
+                  "position": 1,
+                  "quantity": 0
+               },
+               {
+                  "id": "57",
+                  "name": "S",
+                  "position": 2,
+                  "quantity": 2
+               },
+               {
+                  "id": "58",
+                  "name": "M",
+                  "position": 3,
+                  "quantity": 2
+               },
+               {
+                  "id": "59",
+                  "name": "L",
+                  "position": 4,
+                  "quantity": 0
+               }
+            ]
+         }
+      ]
+   }
+]

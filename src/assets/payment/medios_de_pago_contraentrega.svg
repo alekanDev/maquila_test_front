@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: MontserratRoman-SemiBold, Montserrat;
+        font-size: 18px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #c68938;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-3" x="15.38" y="64.43" width="54.4" height="54.4" rx="1.07" ry="1.07"/>
+    <polygon class="cls-1" points="33.51 61.8 33.51 86.81 42.89 80.56 51.02 86.81 51.02 61.17 33.51 61.8"/>
+    <rect class="cls-1" x="26.64" y="104.07" width="32.51" height="4.38"/>
+  </g>
+  <text class="cls-2" transform="translate(83.1 87.46)"><tspan x="0" y="0">Contra</tspan><tspan x="0" y="19">Entrega</tspan></text>
+</svg>

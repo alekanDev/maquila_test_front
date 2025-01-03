@@ -1,0 +1,85 @@
+.legal_info_container {
+  width: 100vW;
+  height: 100px;
+}
+
+.lega_menu_container {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.legal_menu {
+  display: flex;
+  height: 50%;
+  align-items: center;
+  justify-content: center;
+}
+
+.legal_option_item {
+  width: auto;
+  padding: 0 8px;
+  border-right: solid 1px #2c2c2c;
+}
+
+.legal_option_item:hover {
+  cursor: pointer;
+  background-color: #171d2b;
+  color: white;
+}
+.icon_sic{
+  margin-left: 10px;
+}
+.icon_sic:hover {
+  cursor: pointer;
+}
+
+.all_rights {
+  width: 30%;
+  text-align: right;
+}
+
+.company_info {
+  width: 100%;
+  height: 40%;
+  background-color: #171d2b;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 15px;
+  padding: 0 20px;
+}
+@media (max-width: 1025px) {
+  .legal_info_container{
+    height: 250px;
+  }
+  .all_rights{
+    display: none;
+  }
+  .legal_menu{
+    flex-wrap: wrap;
+  }
+  .legal_option_item{
+    width: 50%;
+    height: 60%;
+    padding: 0;
+    font-size: 14px;
+    gap: 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .company_info{
+    height: 20%;
+    margin: 40px 0;
+  }
+
+}

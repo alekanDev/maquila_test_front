@@ -1,0 +1,478 @@
+.banner_container {
+  width: 100vW;
+  height: 90px;
+  background-color: #171d2b;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.banner_grinch {
+  width: 100%;
+  height: 40%;
+}
+
+.banner_grinch:hover {
+  cursor: pointer;
+}
+
+.nav_bar {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* padding: 0 20px; */
+}
+
+.brand_container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.brand_container:hover {
+  cursor: pointer;
+}
+
+.menu_container {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: flex;
+  gap: 45px;
+}
+
+.menu_item {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#title {
+  text-transform: uppercase;
+}
+
+#title:hover {
+  cursor: pointer;
+  /* color: #EA0029; */
+}
+
+#subtitle {
+  font-size: 9px;
+}
+
+#subtitle:hover {
+  color: white;
+}
+
+
+.login_container {
+  display: flex;
+  gap: 15px;
+}
+
+.icon_navbar:hover {
+  cursor: pointer;
+}
+
+.counter_bag {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 15px;
+  height: 15px;
+  margin: 0.5% 5%;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: solid 1px white;
+  font-size: 10px;
+}
+
+.mybag_container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 400px;
+  height: 100vH;
+  background-color: white;
+  padding: 0 10px;
+}
+
+.mybag_title_container {
+  width: 100%;
+  height: 40px;
+  color: black;
+  border-bottom: solid 1px #2c2c2c;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.mybag_item_container {
+  width: auto;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  padding: 10px 10px;
+  overflow-y: scroll;
+  overflow-x: hiddden;
+}
+
+.item_bag_information {
+  /* background-color: yellow; */
+  width: 100%;
+  height: 180px;
+  border-bottom: solid 1px gray;
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.item_bag_image {
+  width: 30%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item_bag_data {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px;
+  gap: 15px;
+}
+
+.item_bag_brand {
+  color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item_bag_product_name {
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.item_bag_cant_price {
+  width: 100%;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cant_price_inc_cant_dim {
+  width: 35%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px rgb(216, 216, 216);
+  border-radius: 5px;
+  gap: 10px;
+}
+
+.cant_price_sign {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .cant_price_sign:hover{
+  cursor: pointer;
+  background-color: rgb(179, 179, 179);
+} */
+.cant_price_number {
+  height: 100%;
+  width: 40%;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  border-left: solid 1px rgb(216, 216, 216);
+  border-right: solid 1px rgb(216, 216, 216);
+  padding: 5px;
+}
+
+.cant_price_price {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.description_price {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.description_price_last {
+  font-size: 13px;
+  color: gray;
+  font-weight: normal;
+  text-decoration: line-through;
+}
+.mybag_process_pay_container{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 35%;
+  color: black;
+  background-color: rgb(211, 211, 211);
+  padding: 20px;
+}
+
+.mybag_process_pay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.pay_subtotal {
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.pay_ship {
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.pay_ship_price {
+  text-transform: capitalize;
+}
+
+.pay_total {
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.pay_free_ship {
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  padding: 20px;
+}
+
+.pay_free_ship_bold {
+  font-weight: bold;
+}
+
+.pay_free_progress {
+  height: 30px;
+  letter-spacing: 3px;
+}
+
+.pay_free_process_values {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.pay_free_text {
+  font-weight: bold;
+}
+
+.btn_end_buy{
+  align-self: center;
+  width: 70%;
+  height: 45px;
+  margin-top: 20px;
+  background-color: red;
+  font-weight: bold;
+  letter-spacing: 2px;
+  border: none;
+  outline: none;
+  color: white;
+  cursor: pointer;
+}
+.finish_pay{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input_doc{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+}
+.close_icon_finish_pay{
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
+.input_item{
+  width: 80%;
+  height: 35px;
+  margin: 20px;
+  border-radius: 5px;
+  text-align: center;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+@media (max-width: 1025px) {
+  .mybag_container {
+    width: 100%;
+  }
+
+  .mybag_title_container {
+    height: 60px;
+  }
+
+  .mybag_process_pay {
+    height: 40%;
+  }
+
+  .brand_container {
+    justify-content: space-between;
+  }
+
+  .menu_container {
+    display: none;
+  }
+
+  .menu_mobile {
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+  }
+
+  .menu_mobile_container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    display: flex;
+    z-index: 1;
+    color: black;
+  }
+
+  .menu_mobile_space {
+    width: 85%;
+    height: 100vH;
+    background-color: white;
+  }
+
+  .menu_mobile_brand {
+    position: relative;
+    width: 100%;
+    height: 8%;
+    border-bottom: solid 1px #2c2c2c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu_mobile_close {
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+  }
+
+  .menu_mobile_categories {
+    border-bottom: solid 1px #2c2c2c;
+  }
+
+  .login_container {
+    display: flex;
+    padding: 0;
+    gap: 5px;
+  }
+
+  .counter_bag {
+    margin: 5px 15px;
+  }
+
+  .menu_item {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-right: 20px;
+    text-transform: capitalize;
+  }
+
+  #subtitle {
+    font-size: 14px;
+    color: gray;
+  }
+
+  .menu_item_submenu {
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+
+  }
+
+  .menu_mobile_account {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .item_account_title {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+  }
+
+  .submenu_mobile_space {
+    width: 85%;
+    height: 100vH;
+    background-color: white;
+  }
+
+}
+
+.none {
+  display: none;
+}

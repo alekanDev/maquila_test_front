@@ -1,0 +1,35 @@
+.social_footer_container{
+  width: 100vW;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.icons_social{
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
+  gap: 10px;
+}
+.social_item:hover{
+  cursor: pointer;
+  color: red;
+}
+.follow_text{
+  font-weight: bold;
+}
+.current_region{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.current_region:hover{
+  cursor: pointer;
+}
+
+@media (max-width: 1025px) {
+  .follow_text{
+    display: none;
+  }
+}

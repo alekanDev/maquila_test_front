@@ -1,0 +1,44 @@
+.admin_container {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+}
+.title_page{
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.table_buys {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 1px gray;
+  padding: 10px 0;
+}
+
+.celd_row {
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.celd_row_title {
+  font-weight: bold;
+  
+}
+.celd_row_id_products{
+  display: flex;
+  flex-direction: column;
+}
